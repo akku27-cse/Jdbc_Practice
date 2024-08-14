@@ -1,6 +1,6 @@
 //regiser class 
 /*
-class.forname("com.mysqlo.jdbc.Driver")
+Class.forname("com.mysqlo.jdbc.Driver")
 */
 //form creeation
 /*
@@ -26,3 +26,12 @@ class.forname("com.mysqlo.jdbc.Driver")
    * con.close();
    * 
    */
+  /**
+   * JDBC1
+   */
+  public class JDBC1 {
+  
+    public static void main(String[] args) {
+      
+    }
+  }
