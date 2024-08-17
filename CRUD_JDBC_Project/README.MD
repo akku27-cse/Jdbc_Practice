@@ -1,6 +1,6 @@
 
 ##output
-D:\JavaDeveloper\CRUD_JDBC\image.png
+
 
 
 ##query
